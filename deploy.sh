@@ -10,6 +10,6 @@ git init
 git add -A
 git commit -m "New Deployment"
 
-git push -f [git@github.com](mailto:git@github.com):dereklane-dev/vue-api-assignment.git HEAD:gh-pages
+git push -f git@github.com:dereklane-dev/vue-api-assignment.git HEAD:gh-pages
 
 cd -
